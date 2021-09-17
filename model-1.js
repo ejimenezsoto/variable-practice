@@ -13,3 +13,15 @@ var bool2 = false;
 var array = [1,2,3,4,5];
 
 var mixedArray = [1,"string",true];
+
+var objects = {
+  firstName:"Enzo",
+  lastName:"Jimenez-Soto",
+  age:30
+}
+
+var objects2 = {
+  make:"Honda",
+  model:"Civic",
+  year:2012
+}
